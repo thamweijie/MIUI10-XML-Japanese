@@ -3302,7 +3302,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="music_dirac_mode_cancelling">Mi Noise Cancelling 3.5mm</string>
   <string name="music_dirac_mode_capsule">Mi Capsule</string>
   <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
-  <string name="music_dirac_mode_general">General</string>
+  <string name="music_dirac_mode_general">全般</string>
   <string name="music_dirac_mode_general_earbuds">General</string>
   <string name="music_dirac_mode_general_inear">General In-Ear</string>
   <string name="music_dirac_mode_half_in_ear">Mi Half In-Ear</string>
@@ -3322,10 +3322,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="music_dirac_mode_piston_color">Color Edition</string>
   <string name="music_dirac_mode_piston_standard">Standard Edition</string>
   <string name="music_dirac_mode_piston_youth">Youth Edition</string>
-  <string name="music_dirac_mode_reduction_noise">Mi Noise Cancelling Type-C</string>
-  <string name="music_dolby_mode_movie">Video</string>
-  <string name="music_dolby_mode_music">Music</string>
-  <string name="music_dolby_mode_off">Off</string>
+  <string name="music_dirac_mode_reduction_noise">Mi ノイズキャンセリング Type-C</string>
+  <string name="music_dolby_mode_movie">ビデオ</string>
+  <string name="music_dolby_mode_music">ミュージック</string>
+  <string name="music_dolby_mode_off">オフ</string>
   <string name="music_equalizer">イコライザー</string>
   <string name="music_equalizer_summary">音楽の種類ごとに個別のレベルを調節します</string>
   <string name="music_hd_title">HD Sound audio</string>
@@ -3512,7 +3512,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="notifi_importance_high">Play sound, show on the Lock screen, allow using fullscreen options</string>
   <string name="notifi_importance_low">"Don't play sound"</string>
   <string name="notifi_importance_min">"Don't show on the Lock screen, don't play sound"</string>
-  <string name="notifi_importance_none">Off</string>
+  <string name="notifi_importance_none">オフ</string>
   <string name="notifi_importance_unspecified">Let the app decide</string>
   <string name="notifi_no_channels">"This app hasn't received any notifications yet"</string>
   <string name="notification_app_settings_button">通知設定</string>
